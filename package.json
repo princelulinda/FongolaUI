@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": {"FongolaUI":"Cli.js"},
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "FongolaUI":"node Cli"
+  },
+  "author": "prince lulinda",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "commander": "^12.0.0",
+    "inquirer": "^9.2.17"
+  }
+}
